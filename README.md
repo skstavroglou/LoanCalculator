@@ -1,0 +1,6 @@
+# LoanCalculator
+A simple JS implementation of a loan calculator
+
+To use the app directly, you can visit: https://skstavroglou.github.io/LoanCalculator/
+
+DISCLAIMER: No user data are collected.
